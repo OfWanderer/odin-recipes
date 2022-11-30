@@ -1,0 +1,39 @@
+.entirety {
+    background-color: #051324; 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.title {
+    color: whitesmoke;
+    font-size: 42px;
+    text-align: center;
+    line-height: 2em;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div.container {
+    color: whitesmoke;
+    line-height: 2em;
+    text-align: center;
+}
+
+
+
+ul.links {
+    display: inline-block;
+    line-height: 2.5em;
+    list-style-type: none;
+    text-align: left;
+    font-size: 36px;
+}
+
+.link {
+    color: whitesmoke;
+    text-decoration: none;
+}
